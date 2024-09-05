@@ -1,0 +1,5 @@
+node_modules/
+pnpm-lock.yaml
+
+#todos los archivos y carpetas de webstorm
+.idea/
